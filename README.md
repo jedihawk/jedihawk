@@ -2,7 +2,6 @@
 - 👀 I’m interested in all things geeky.
 - 🌱 I’m currently learning git, Salesforce, APEX, Java, JS, PHP, SQL, SOQL, and Godot.
 - 💞️ I’m looking to collaborate on anything where I can actually be useful and helpful.
-- 📫 How to reach me ... not sure, too much spam out there.
 
 <!---
 jedihawk/jedihawk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
