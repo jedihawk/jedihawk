@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jedihawk
 - 👀 I’m interested in all things geeky.
-- 🌱 I’m currently learning git, Salesforce, APEX, Java, JS, PHP, SQL, SOQL, and Godot.
+- 🌱 I’m currently learning git, Rust, and Godot.
 - 💞️ I’m looking to collaborate on anything where I can actually be useful and helpful.
 
 <!---
